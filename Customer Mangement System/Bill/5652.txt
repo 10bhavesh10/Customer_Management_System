@@ -1,0 +1,12 @@
+		   CUSTOMER BILL
+
+ Bill Number :5652
+ Customer Name :MR B
+ Phone Number :1234567890
+
+======================================
+ Product		QTY		Price
+======================================
+rice		1kg		70.00
+milk		2L		105.00
+Goodday		5		50.00
